@@ -8,3 +8,9 @@ img {
     height: auto;
     width: 200px;
 }
+ol {
+    background-color: lightyellow;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
